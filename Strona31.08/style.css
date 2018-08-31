@@ -1,0 +1,41 @@
+.container{
+    color: azure;
+    height: 1000px;
+    width: 100%;
+    margin: auto;
+}
+
+body{
+    margin: 0;
+    background-image: url(img/dark_stripes.png);
+}
+
+.logo{
+    background-color: salmon;
+    height: 60px;
+    width: 100%;
+}
+.parent{
+    display: flex;
+    height: 1000px;
+    width: 100%;
+    margin: auto;
+}
+.item{
+    color: azure;
+    height: 1000px;
+    width: 300px;
+    margin: auto;
+    order: initial;
+    background-color: aquamarine;
+    margin: 0;
+}
+#first{
+    background-color: beige
+}
+#second{
+    background-color: blanchedalmond
+}
+#third{
+    background-color: royalblue
+}

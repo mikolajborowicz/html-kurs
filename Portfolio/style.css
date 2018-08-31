@@ -1,7 +1,8 @@
 body
 {
-    background-color: #303030;
+    background-image: url(img/dark_stripes.png);
     font-family: 'Lato', sans-serif
+    /* Background pattern from Toptal Subtle Patterns */
 }
 #container
 {
