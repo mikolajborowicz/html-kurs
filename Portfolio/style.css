@@ -21,6 +21,7 @@ body
 {
     width: 50%;
     float: left;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 #logo{
@@ -43,13 +44,17 @@ body
     margin: 10px;
     width: 230px;
     height: 100px;
-    background-color: #3095d3;
+    background-image:url(img/Ile-zarabia-trener-personalny.jpg);
     float: left;
+    background-position: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 33px;
     color: aliceblue;
     text-align: center;
     padding-top:40px;
+}
+#mo{
+    background-image: url(img/cf07c40e2f35e1c874e790003f251074\,780\,0\,0\,0.jpg)
 }
 .tile2{
     margin: 10px;
