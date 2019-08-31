@@ -1,0 +1,19 @@
+html {
+    font-size: 10px;
+    background-color: aliceblue;
+    body {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+}
+.container-fluid {
+    width: 100%;
+}
+.container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@import "frontpage";
